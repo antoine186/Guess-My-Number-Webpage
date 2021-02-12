@@ -6,6 +6,6 @@ The javascript backend generates a secret hidden integer between 0 and 20. The o
 
 In the case of guessing too low:
 
-<p align"center">
-https://github.com/antoine186/Guess-My-Number-Webpage/blob/main/img/gamelow1.PNG
+<p align="center">
+  <img src="https://github.com/antoine186/Guess-My-Number-Webpage/blob/main/img/gamelow1.PNG" alt="alt text" width=60% height=60%>
 </p>

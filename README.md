@@ -10,13 +10,13 @@ The javascript backend generates a secret hidden integer between 0 and 20. The o
   <img src="https://github.com/antoine186/Guess-My-Number-Webpage/blob/main/img/gamelow1.PNG" alt="alt text" width=60% height=60%>
 </p>
 
-!Guess too high!
+---
 
 <p align="center">
   <img src="https://github.com/antoine186/Guess-My-Number-Webpage/blob/main/img/gamehigh1.PNG" alt="alt text" width=60% height=60%>
 </p>
 
-!Guess is correct!
+---
 
 <p align="center">
   <img src="https://github.com/antoine186/Guess-My-Number-Webpage/blob/main/img/gamecorrect.PNG" alt="alt text" width=60% height=60%>
